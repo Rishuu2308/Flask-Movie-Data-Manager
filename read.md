@@ -111,26 +111,14 @@ Below are screenshots demonstrating the successful implementation of the system:
 
 ### **1. Uploading CSV File**
 
-![Upload CSV](sandbox:/mnt/data/Screenshot%202025-02-02%20025438.png)
-
+![Image](https://github.com/user-attachments/assets/7d8b52f8-5356-4651-833f-0ff42f71ebdd)
+![Image](https://github.com/user-attachments/assets/836f4d7d-fd46-425f-89e0-a223324e2c2b)
+![Image](https://github.com/user-attachments/assets/80bfc9d2-6ef5-4939-92ac-e567204827dd)
 ### **2. Retrieving Movies**
 
-![Get Movies](sandbox:/mnt/data/Screenshot%202025-02-02%20025445.png)
 
 ### **3. Filtering and Sorting Movies**
 
-![Filtered Movies](sandbox:/mnt/data/Screenshot%202025-02-02%20025454.png)
 
-## Submission Guidelines
-
-- Ensure that the repository contains the following:
-  - **Flask API Code** for handling CSV upload and data retrieval.
-  - **README** with comprehensive setup and API usage documentation.
-  - **Postman Collection** for API testing.
-- Follow best practices in coding, API design, and documentation.
-
----
-
-**Author:** Your Name
 
 **Author:** Rishika Carpenter
