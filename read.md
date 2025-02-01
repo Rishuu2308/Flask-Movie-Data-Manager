@@ -111,13 +111,13 @@ Below are screenshots demonstrating the successful implementation of the system:
 
 ### **1. Uploading CSV File**
 
-![Image](https://github.com/user-attachments/assets/7d8b52f8-5356-4651-833f-0ff42f71ebdd)
 ![Image](https://github.com/user-attachments/assets/836f4d7d-fd46-425f-89e0-a223324e2c2b)
-![Image](https://github.com/user-attachments/assets/80bfc9d2-6ef5-4939-92ac-e567204827dd)
 ### **2. Retrieving Movies**
+![Image](https://github.com/user-attachments/assets/7d8b52f8-5356-4651-833f-0ff42f71ebdd)
 
 
 ### **3. Filtering and Sorting Movies**
+![Image](https://github.com/user-attachments/assets/80bfc9d2-6ef5-4939-92ac-e567204827dd)
 
 
 
